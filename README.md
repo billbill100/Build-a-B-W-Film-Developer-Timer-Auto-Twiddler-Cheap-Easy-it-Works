@@ -16,11 +16,8 @@ Myself, I find it much easier to leave the developing tank in the water bath and
 
 The hardware is all cheaply available on Aliexpress & uses many of the same parts as the shutter tester. Where possible, I have kept the wiring identical.
 Basic practical skills are required to build the timer. All of the required electronic modules are pre-built, so there is little or no soldering required, as push-fit or screw terminals are used for the connections.
+
 Optionally, a li-po battery can be added, which is automatically charged & will power the timer in the event of a power failure.
-
-Documentation is in the early stages and subject to change. As they become available, they will be added to Github along with the code,  & will be posted on Github, in the coming days.
-
-In the meantime, thought it would be good idea to post some photo & get feedback or ideas for changes or additions.
 
 Forum can be found here
 https://www.photrio.com/forum/threads/build-a-b-w-film-developing-timer-twiddler-cheap-easy-it-works.204682/#post-2766843
