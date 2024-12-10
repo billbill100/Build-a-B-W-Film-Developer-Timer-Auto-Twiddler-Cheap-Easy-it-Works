@@ -21,3 +21,7 @@ Optionally, a li-po battery can be added, which is automatically charged & will 
 
 Forum can be found here
 https://www.photrio.com/forum/threads/build-a-b-w-film-developing-timer-twiddler-cheap-easy-it-works.204682/#post-2766843
+
+On first startup, the screen will show an Authorisation Code and ask that a User Key be entered. To obtain the User Key, contact me via message and the key will be issued free of charge. Please note this key is will last the lifetime of your project. It only needs entering once but make a note of it (write on a piece of paper & leave in the project box) in case a Factory Reset is performed.
+
+The User key is issued free of charge, and there will never be any charge made for this key. It has been added to stop piracy and users being charged for firmware downloads.
